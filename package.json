@@ -1,0 +1,19 @@
+{
+  "name": "nordeste-praias",
+  "version": "1.0.0",
+  "description": "Troca de informações sobre praias do nordeste por pessoas que as conhecem",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.2"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
